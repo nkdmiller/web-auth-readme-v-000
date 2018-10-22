@@ -3,7 +3,7 @@
 ## Objectives
 
 1. Understand what OAuth is and why we use it.
-2. Use OAuth with the Foursquare API.
+2. Use OAuth with the Foursquare API.   
 
 ## Lesson
 
